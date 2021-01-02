@@ -1,9 +1,9 @@
-Beta 5.3 update:
+Beta 6.0 update:
 
-- bugs fixed
-- added new, better (I think) music
-- crash reporter: when game crashes, window 
-appears with crash report
-- boss health bar has background color
-- smaller boss hitbox
+Okay, no update this is launcher test lol
+but few things have been added ;)
+discover them yourself :) 
+
+
+
 Click here to see more
