@@ -2,8 +2,8 @@ Beta 5.3 update:
 
 - bugs fixed
 - added new, better (I think) music
-- crash reporter: when game crashes, window appears with crash report
+- crash reporter: when game crashes, window appears 
+with crash report
 - boss health bar has background color
 - smaller boss hitbox
-- boss shoots more often
 Click here to see more
