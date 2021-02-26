@@ -1,9 +1,11 @@
-Beta 6.0 Update:
+1.0 Update [RELEASE]:
 
-- new boss
-- logo appears when starting the game
-- permanent upgrades shop: buy these
-upgrades and they won't disappear!
-- permanent upgrade - more max ammo:
-now you can have max 1000 ammo!
+- Permanent upgrade - double score.
+- ADVANCEMENTS! Gain advancements 
+to get money.
+- Game end: Get 3700 score
+to complete the game!
+- FIGHT 2 BOSSES AT ONCE!
+Get 3200 score to fight
+2 bosses at once.
 Click here to see more
